@@ -1,0 +1,13 @@
+# Built apps
+*.apk
+*.aab
+
+# Build folders
+build/
+app/build/
+.gradle/
+
+# Android Studio files
+.idea/
+*.iml
+local.properties
